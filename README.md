@@ -19,4 +19,4 @@ https://github.com/A1093351/110-2-php/blob/main/KT_trip.php
 ## week 10 
   W10 HW https://github.com/A1093351/110-2-php/tree/main/week10_galary
 ## week 11 
-  W11 HW
+  W11 HW https://github.com/A1093351/110-2-php/tree/main/week11_mail
